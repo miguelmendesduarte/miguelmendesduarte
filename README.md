@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### I'm a Machine Learning Engineer at Visionspace, specializing in space-related projects :satellite:
+
+I hold a degree in Electrical and Computer Engineering and have a keen interest in applying machine learning techniques to tackle environmental challenges. I'm excited to collaborate on meaningful projects that make a positive impact on our planet :earth_africa:
+
+- 📫 How to reach me: mdu97@hotmail.com
+
+
 <!--
 **miguelmendesduarte/miguelmendesduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
