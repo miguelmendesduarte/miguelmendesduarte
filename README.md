@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Miguel 👋
 
 #### I'm a Machine Learning Engineer at Visionspace, specializing in space-related projects :satellite:
 
