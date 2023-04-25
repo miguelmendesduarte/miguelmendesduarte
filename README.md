@@ -2,6 +2,8 @@
 
 #### I'm a Machine Learning Engineer at Visionspace, specializing in space-related projects :satellite:
 
+As part of my activities, I also contribute to the OPS-SAT mission with the **European Space Agency (ESA)** :rocket:
+
 I hold a degree in Electrical and Computer Engineering and have a keen interest in applying machine learning techniques to tackle environmental challenges. I'm excited to collaborate on meaningful projects that make a positive impact on our planet :earth_africa:
 
 - 📫 How to reach me: mdu97@hotmail.com
