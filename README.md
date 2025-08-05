@@ -3,18 +3,13 @@ Welcome to my page.
 
 I'm Miguel, Machine Learning Engineer from 🇵🇹 **Portugal**.
 
-I enjoy working on projects that solve meaningful problems, particularly in areas like **environmental challenges**, **sports analytics**, and **economic modeling**.
+I build machine learning solutions that make a real impact, focusing on **space exploration**, **sports analytics**, and **economic modeling**.
 
-#### Fun Facts:
-- I'm a huge fan of the **Green Bay Packers** in the NFL 🏈. Sometimes I do crazy things like staying up until 4 AM just to watch them play!
-- Recently, I started a **"picture a day" challenge** 📸 to appreciate the beauty in everyday things that often go unnoticed.
-- I can't read just one book at a time 📚 - I always have multiple books on my bedside table, each with its own bookmark!
-- **Published a paper** 📖: Developed a new method using satellite imagery to detect plastic waste in the ocean, with my findings now published.
-
-#### Currently Working On:
-- **NFL Big Data Bowl 2025 Submission**: Evaluating how defensive backs (DBs) disguise their intentions to improve defensive performance.
-- **LLM Models**: Developing a self-presenting AI version of myself that tells the world about my work, passions, and pizza preferences (because why not, right?)
-- **Micro SaaS Project**: Building a micro SaaS that returns movie scenes based on user-provided descriptions.
+When I'm not working, you'll find me:  
+- **Chasing the perfect shot** with my second-hand camera 📸  
+- **Reading biographies** and diving into economics 📚  
+- **Watching NFL** or cheering for **Sporting Clube de Portugal** ⚽  
+- **Binge-watching movies** 🎬 (cinema lover here!)
 
 #### Things I code with:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -26,6 +21,9 @@ I enjoy working on projects that solve meaningful problems, particularly in area
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=ffffff)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=ffffff)](https://matplotlib.org/)
+[![LangChain](https://img.shields.io/badge/-LangChain-FF4F00?style=flat&logo=langchain&logoColor=ffffff)](https://www.langchain.com/)
+[![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=ffffff)](https://ollama.com/)
+[![Pydantic](https://img.shields.io/badge/-Pydantic-2C3E50?style=flat&logo=pydantic&logoColor=ffffff)](https://pydantic-docs.helpmanual.io/)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)](https://git-scm.com/)
