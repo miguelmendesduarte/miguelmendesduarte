@@ -31,6 +31,7 @@ When I'm not working, you'll find me:
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=ffffff)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=ffffff)](https://www.terraform.io/)
+[![Claude](https://img.shields.io/badge/-Claude-7956FF?style=flat&logo=anthropic&logoColor=ffffff)](https://www.anthropic.com/)
 
 #### Connect With Me:
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:mdu97@hotmail.com)
